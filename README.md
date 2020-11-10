@@ -1,6 +1,6 @@
-# HealthApp
+# Drum Kit App
 
-A new Flutter project.
+Drum kit app demo using flutter.
 
 ## Getting Started
 
